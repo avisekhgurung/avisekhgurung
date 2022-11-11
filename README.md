@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://avisekhportfolio-avisekh999.vercel.app/](https://avisekhportfolio-avisekh999.vercel.app/)
 
-- 📝 I regularly write articles on [www.techyodhya.com](www.techyodhya.com)
+<!-- - 📝 I regularly write articles on [www.techyodhya.com](www.techyodhya.com) -->
 
 - 💬 Ask me about **Web , App Development**
 
