@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web , App Development**
 
-- 📫 How to reach me **https://avisekhportfolio-avisekh999.vercel.app/**
+- 📫 How to reach me **avisekhgurung8578@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
