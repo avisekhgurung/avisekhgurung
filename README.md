@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, NodeJs , Aws**
 
-- 👨‍💻 All of my projects are available at [https://avisekhportfolio-avisekh999.vercel.app/](https://avisekhportfolio-avisekh999.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://avisekhgurung.vercel.app/](https://avisekhgurung.vercel.app/)
 
 <!-- - 📝 I regularly write articles on [www.techyodhya.com](www.techyodhya.com) -->
 
